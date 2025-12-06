@@ -1,0 +1,14 @@
+{
+    "name": "atan-nuclear-exotic-space-industries-compat",
+    "version": "0.0.1",
+    "title": "Nuclear Science + Exotic Space Industries Remembrance Compatibility Fix",
+    "author": "Rodemarck",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base",
+        "space-age",
+        "atan-nuclear-science",
+        "exotic-space-industries-remembrance"
+    ],
+    "description": "Fixes technology tree conflicts between ATAN Nuclear Science and Exotic Space Industries (Remembrance). Removes invalid nuclear science requirements, restores correct uranium progression, and ensures that uranium ammo and Kovarex enrichment properly depend on Nuclear Science. Includes full graph cleanup to prevent cyclic tech dependencies."
+}
